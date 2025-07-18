@@ -6,6 +6,7 @@ A Windows desktop application built with C# WinForms and ML.NET to assist in dia
 - User-friendly interface.
 - Machine Learning model integration for malaria prediction.
 - Simple navigation between forms.
+- training dataset of 1000 records.
 
  Requirements
 - .NET 7.0 (or compatible)
