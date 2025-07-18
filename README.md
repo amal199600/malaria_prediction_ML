@@ -19,9 +19,12 @@ A Windows desktop application built with C# WinForms and ML.NET to assist in dia
 
  Author
 Amal Hasan
-<<<<<<< HEAD
+
 =======
 SCREENSHOTS:
+
+
+
 <img width=50% alt="malariaPredication3" src="https://github.com/user-attachments/assets/0698d487-4689-4503-aa45-873dd8b6fe72" />
 <img width=50%  alt="malariaPredication2" src="https://github.com/user-attachments/assets/e5e0ff16-77b2-4ea8-9dd3-a6b29e07c14a" />
 <img width=50%  alt="malariaPredication1" src="https://github.com/user-attachments/assets/1fe0f966-342b-46c7-954b-ba591d9eaff9" />
